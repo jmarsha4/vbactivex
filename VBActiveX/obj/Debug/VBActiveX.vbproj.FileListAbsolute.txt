@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Samples\VB ActiveX control\VBActiveX\obj\Debug\VBActiveX.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Samples\VB ActiveX control\VBActiveX\obj\Debug\VBActiveX.VBActiveXCtrl.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Samples\VB ActiveX control\VBActiveX\obj\Debug\VBActiveX.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Samples\VB ActiveX control\VBActiveX\obj\Debug\VBActiveX.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Samples\VB ActiveX control\Debug\VBActiveX.bmp
+C:\Users\Administrator\Documents\Visual Studio 2013\Samples\VB ActiveX control\Debug\VBActiveX.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Samples\VB ActiveX control\Debug\VBActiveX.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Samples\VB ActiveX control\Debug\VBActiveX.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Samples\VB ActiveX control\Debug\VBActiveX.tlb
+C:\Users\Administrator\Documents\Visual Studio 2013\Samples\VB ActiveX control\VBActiveX\obj\Debug\VBActiveX.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Samples\VB ActiveX control\VBActiveX\obj\Debug\VBActiveX.xml
